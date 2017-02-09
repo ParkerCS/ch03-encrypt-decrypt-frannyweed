@@ -14,4 +14,3 @@ def decode(key, string):
         decoded_chars.append(decoded_c)
     decoded_string = "".join(decoded_chars)
     return decoded_string
-
